@@ -17,7 +17,7 @@ console.log(real_another_array);
 
 console.log(Array.isArray("notch"))
 console.log(Array.from("notch"));
-console.log(Array.from({name:"notch"}))  // intresting
+console.log(Array.from({name:"notch"}))  // intresting.
 
 let score1=10
 let score2=20
