@@ -1,2 +1,2 @@
 # js-practice
-learning
+learning java script from basic
