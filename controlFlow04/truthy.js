@@ -33,3 +33,8 @@ if(userEmail.length===0){
 
 const pizzaprice=10;
 pizzaprice>=100?console.log("over 100"):console.log("under 100")
+
+const namee=""
+if(namee==0){
+    console.log("empty string is truthy value")
+}
